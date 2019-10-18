@@ -1,0 +1,20 @@
+---
+title: "Milestone 5"
+author: "Margaret Butler"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## About
+
+The data conveyed here in various forms comes from the Army ROTC Accessions process. Accessions is the process by which cadets are given their branch assignments in their senior year. It is largely based in GPA, and generally, the higher your GPA, the more likely you are to get your branch of choice. There are exceptions, as the bottom third of three different GPA groups gets separate from the pack, and allocated to branches seemingly at random in order to spread out the dissemination of quality officers. As a cadet, it can be hard to visualize what your branch chances look like according to your OML or GPA, or how large that random split in the bottom third is. I wanted to make it easier for cadets to picture the Accessions process, and potentially help give them the information to maximize their chances of getting their top choice branch. The data may have another story to tell. 
+
+
+```{r, echo = FALSE}
+
+## I'm still having a lot of trouble cleaning and gathering my data. I plan on speaking to a TF within the next few days about the best way to proceed, as this is a project I care about and would stil like to see through.
+
+```
